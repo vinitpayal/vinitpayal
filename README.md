@@ -1,4 +1,13 @@
-### Hi there 👋
+<a href="https://twitter.com/vinitpayal">
+  <img align="left" alt="Vinit Payal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vinitpayal/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
+<br />
+Hey, I'm [Vinit Payal](http://vinitpayal.in) a passionate freelance software developer from india, I love to contribute to open-source projects.
 
 <!--
 **vinitpayal/vinitpayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
