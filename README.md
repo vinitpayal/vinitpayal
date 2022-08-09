@@ -1,16 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Good to see you here.</h1>
 
-
-<a href="https://twitter.com/vinitpayal">
-  <img align="left" alt="Vinit Payal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vinitpayal/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
-<br />
-
 Welcome to my profile! 
 I'm Vinit, Senior Data Engineer from <img src="https://cdn-icons-png.flaticon.com/512/299/299702.png" width="13"/> Bangalore, India.
 
