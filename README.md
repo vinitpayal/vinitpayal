@@ -14,7 +14,7 @@
 Welcome to my profile! 
 I'm Vinit, Senior Data Engineer from <img src="https://cdn-icons-png.flaticon.com/512/299/299702.png" width="13"/> Bangalore, India.
 
-Technologies I code with <br/>
+Technologies I am passionate for <br/>
 <img alt="Python" src="https://img.shields.io/badge/-Python3.7-46a2f1?style=flat-square&logo=python&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white" />
