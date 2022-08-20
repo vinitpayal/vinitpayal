@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Good to see you here.</h1>
 
 Welcome to my profile! 
-I'm Vinit, Working as <b>Heaf Of Data Engineering @ Tribes.AI</b> from <img src="https://cdn-icons-png.flaticon.com/512/299/299702.png" width="13"/> Bangalore, India.
+I'm Vinit, Working as <b>Heaf Of Data Engineering @ Tribes.AI</b> from Bangalore, India<img src="https://cdn-icons-png.flaticon.com/512/299/299702.png" width="13"/> .
 
 Technologies I am passionate about
 <p>
